@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, welcome to my github profile 👋
+I'm a 22 year old student from 🇸🇪 who wants to work with computer games.
+
+#### About me
+* Currently in my 3rd year of Computer Science studies at KTH in Stockholm, Sweden.
+* Started with coding as a hobby back when I was around 13 because I wanted to make diamonds out of dirt my friends Minecraft server.
+* Sometimes I actually develop real Minecraft mods, check them out here: https://www.curseforge.com/members/br4nder5/projects, or here on my git
 
 <!--
 **andersblomqvist/andersblomqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
